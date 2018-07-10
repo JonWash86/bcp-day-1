@@ -25,3 +25,14 @@ Whend one with commits, please sure to run `git push` to move hte code to GitHub
 ```
 working on the code a bit more
 
+1. Item 1
+1. Item 2
+1. Item 3
+    1. Item 3a
+    1. Item 3.b
+
+
+- [ ] to do
+- [ ] also do
+- [x] done
+
