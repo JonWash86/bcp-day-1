@@ -1,1 +1,3 @@
-hello git and GitHub
+Hello git! and hi GitHub!
+
+A man a plan a canal panama
